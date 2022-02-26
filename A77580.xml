@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Confidence dismounted; or the astronomers knavery anatomized. By William Brommerton a well-wisher to the commonweale.</title>
+            <author>Brommerton, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77580</idno>
+            <idno type="STC">Wing B4891</idno>
+            <idno type="STC">Thomason E659_4</idno>
+            <idno type="STC">ESTC R206699</idno>
+            <idno type="EEBO-CITATION">99865812</idno>
+            <idno type="PROQUEST">99865812</idno>
+            <idno type="VID">166108</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77580)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166108)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 101:E659[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Confidence dismounted; or the astronomers knavery anatomized. By William Brommerton a well-wisher to the commonweale.</title>
+                  <author>Brommerton, William.</author>
+               </titleStmt>
+               <extent>[4], 44 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for to undeceive the people,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Aprill 5. 1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilly, William, 1602-1681.</term>
+               <term>Culpeper, Nicholas, 1616-1654.</term>
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166108:1" rendition="simple:additions"/>
+            <p>Confidence Diſmounted; OR THE Aſtronomers Knavery <hi>ANATOMIZED.</hi>
+            </p>
+            <p>By WILLIAM BROMMERTON <hi>A Well-wiſher to the Commonweale.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut</figDesc>
+            </figure>
+            <p>LONDON Printed for to undeceive the People, <hi>Aprill</hi> 5. 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166108:2"/>
+            <pb n="1" facs="tcp:166108:2"/>
+            <head>Confidence Diſmounted.</head>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>HAving taken into my ſerious conſiderati<g ref="char:EOLhyphen"/>on, that ſolar Eclipſe, which on the 29th. of <hi>March</hi> laſt, we did perceive, I thought good to demonſtrate unto you, the folly, or rather knavery of our inſipid Aſtrologers, and non<g ref="char:EOLhyphen"/>ſenſicall <hi>Almanack-makers,</hi> who in their book Intituled <hi>Black Monday,</hi> ſpake of ſuch an Eclipſe that it would be ſo dark, that one man ſhould ſcarce ſee another; but I think in the darkeſt night a man may ſpy ſuch <hi>Astrologick knaves</hi> as they are, among a thouſand: who by their kna<g ref="char:EOLhyphen"/>very have couſened the whole Nation: and were not our prudent Governours more mer<g ref="char:EOLhyphen"/>cifull then they are honeſt, ſome of them might be forced to crave an almes in <hi>Moore fields</hi> again, or elſe be deprived of all that money which they have cheated the <hi>Commonweale</hi> of, and then be carryed to <hi>Tyburne</hi> and hanged at the States charge.</p>
+            <pb n="2" facs="tcp:166108:3"/>
+            <p>Though the Taske be infinite hard, to contain ſuch great beaſts in ſo little paper, yet for the worlds ſatisfa<g ref="char:EOLhyphen"/>ction, or rather admonition, that they never give cre<g ref="char:EOLhyphen"/>dit to ſuch falſe knaves any more, I will delineate to life the proportion of ſome of their writings.</p>
+            <p>The chief and primary errour, on which many others hang, concernes the Suns Eclipſe, which (they ſaid) would bee ſo great, that this age could not parallell it, which wee finde to bee as falſe as the Devill their father, or as Envy or Emulation their Mother, but to paſſe o<g ref="char:EOLhyphen"/>ver this; pray Mr. <hi>Culpepper</hi> where was the thunder and Lightning on the twelfth day of <hi>March</hi> laſt, as for your part, you like an unskilfull Muſitian, have made a diſcord by not keeping true Time; You have ſcrewed your pegs too high Ile aſſure you, Could you ſtay no longer, but muſt you ſhow all your folly, or rather Knavery at once? ſo that now you are become like <hi>Ciciphus</hi> his ſtone, which no ſooner up hill but down it tumbles againe, ſo thou haſt no ſooner got thy pluſh jacket upon thy back, but it muſt turn to ragges, and thou muſt follow thine own Trade again.</p>
+            <p>You know it is the cuſtome of Lovers, after the breach of their League and amity, to ſend back thoſe gratuities which formerly paſſed betwixt them, as tokens of their naturall affections; So I beleeve Mr. <hi>Culpeppers</hi> pluſh jacket muſt goe off again, and truely in my judgement, a whip, and a Jacke of Apes his coat, were fitter for him, hee hath got himſelf a ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tten cap, and a Periwigge for<g ref="char:EOLhyphen"/>ſooth, but my opinion is, that a white cap and a halter would become him better.</p>
+            <p>Ile aſſure you, if I could finde no better then theſe ſort of men to converſe with, and to ſpend my time withall,
+<pb n="3" facs="tcp:166108:3"/>I would turn <hi>Momus,</hi> and for ever hate the ſociety of men; I have ſeen an <hi>Italian</hi> Comedy, conſiſting of a Lover, a Woman, a <hi>Zany</hi> or Fool, and a Devill, and to it I may faſhion the world, for that is the Stage, the peo<g ref="char:EOLhyphen"/>ple the Actors, each degree have their <hi>Zany</hi> and their De<g ref="char:EOLhyphen"/>vill, now if the <hi>Zany</hi> will ſteale his Maſters Apparell, and make between Vice and Vertue no difference, blame not the diſcretion of the Maſter, if it deviſe new faſhions till either the fooliſh <hi>Zany</hi> be tryed, or the Devill for his pride fetch him away, this you may apply at your plea<g ref="char:EOLhyphen"/>ſure.</p>
+            <p>You may obſerve them often to quote a great deale of Scripture, becauſe they would ſeem Saints, but I feare God hath little to do with them, or ever will have, but to puniſh them for their ſins; The Devill could doe as much as they, for his owne advantage, as appeareth in his tempting of our Saviour: how many places of Scrip<g ref="char:EOLhyphen"/>ture did he then quote? but let them take heed to them<g ref="char:EOLhyphen"/>ſelves, leaſt God taking notice of their ſin, doth wher his ſword, and bend his bow, and deſtroy them from off the earth.</p>
+            <p>If my paper were made of the skinnes of croaking Toades, or ſpeckled Adders, my Inke of the blood of Scorpions, my pen pluckt from the Screech Owles wing, they were but fit inſtruments to write concerning ſuch pick-pockets, and <hi>New-gate</hi> birds, for they are more ve<g ref="char:EOLhyphen"/>nemous, more poyſonous, more ominous then the worſt of theſe; Might I bee their Judge, there ſhould not one man of them bee left in this Commonweale; they have ſwome long enough in the golden floods of proſperity, now it is high time there ſhould bee an ebbe, and their ſhip runne on ground, their names have flouriſhed long
+<pb n="4" facs="tcp:166108:4"/>enough, it is now high time to have their names grow odious, grievous, and abominable in the eares of all, as doubtleſſe it will, ſeeing de<g ref="char:EOLhyphen"/>ceit is ſo predominant in their hearts.</p>
+            <p>Their pretentions are, that their judgements are ballanced with prudent advice; I, that is a ſigne indeed by their true prediction; come, come, I ſee they are a pack of Knaves well met together, <hi>Grantham</hi>-cheates, never a bar<g ref="char:EOLhyphen"/>rell of better herring of them; Foule ſhame take them all, is this their ſtuddy with a pox to them, to fill the ears of the people with lies, and to make a mountain of a Mole hill; for the future let them talk what they will, we will beleeve them when we liſt, I ſee they are Re<g ref="char:EOLhyphen"/>bels to all Authority, Rebels againſt the Law of man, Rebels againſt the Law of God, who ſtrive to be honoured as Gods on earth, but the Devill ſhall honour or beleeve them again for me, for I think he is the fitteſt companion for them.</p>
+            <p>Oh! it grieves mee to think upon that ſim<g ref="char:EOLhyphen"/>ple deluded multitude, that ſo runne after this ſect of Knaves (for ſo I may juſtly terme them) ſome asking whether they ſhall be rich
+<pb n="5" facs="tcp:166108:4"/>and ſome one queſtion, and ſome another, and theſe ſame cunning Knaves will alwayes tell them a good fortune, that they may draw their money from them the more liberally: let me intreat you now never to meddle with them more for if they will cheat a whole Nation, as it is apparent they will, certainly they will cheat one particular man.</p>
+            <p>Oh friends, friends, it is a ſad thing when wee run after the creature, and forſake our Cre<g ref="char:EOLhyphen"/>ator, and deſire them to reveale unto us the hid<g ref="char:EOLhyphen"/>den myſteries of God: Oh it is a hideous ſin, this was <hi>Sauls</hi> ſin, who when God had obſcu<g ref="char:EOLhyphen"/>red the light of his countenance from him, pre<g ref="char:EOLhyphen"/>ſently goes to a Witch, and deſires her to raiſe him up <hi>Samuel,</hi> but he received a ſad anſwer; ſo it will be with us, if wee like <hi>Saul</hi> run after this wicked ſect of men, to deſire them to re<g ref="char:EOLhyphen"/>ſolve us in queſtions of that nature; No, no, this is not the way to have any affliction re<g ref="char:EOLhyphen"/>moved but rather increaſed, but if thou art af<g ref="char:EOLhyphen"/>flicted pray, for prayer doth pleaſe God, if it be framed after a right manner: therefore he that deſires to be heard, let him pray wiſely, that is, that he pray for thoſe things that ſerve
+<pb n="6" facs="tcp:166108:5"/>for the glory of God, and not for maintenance of his luſt.</p>
+            <p>But to conclude as I began, that great Eclipſe which theſe <hi>Aſtrologicke</hi> fooles ſpake of, I dare boldly affirme, had not they proclaimed it to be ſuch a horrid one, there had not one man in this City ſo much as taken notice of any E<g ref="char:EOLhyphen"/>clipſe at all.</p>
+            <p>Mr. <hi>Lilly</hi> and the reſt of you, let me adviſe you to furniſh your ſelves with horne books, and learn your A.B.C. againe. I am</p>
+            <closer>
+               <signed>
+                  <hi>A Well-wiſher to the Commonweale,</hi> WILLIAM BROMMERTON.</signed>
+               <dateline>
+                  <hi>London</hi> 
+                  <date>
+                     <hi>this fifth of April</hi> 1652.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
